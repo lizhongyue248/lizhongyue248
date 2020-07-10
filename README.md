@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 迷茫的孩子，找不到回家的归途
+- ✨ 新的开始新的挑战
+- 🌞 乐观、积极、向上
+- 📯 优先考虑历史的进程
+- 🌷 遇见的都是天意，拥有的都是幸运
+
+
 <!--
 **lizhongyue248/lizhongyue248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
