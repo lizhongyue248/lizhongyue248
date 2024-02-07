@@ -1,16 +1,17 @@
 ### Hi there 👋
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=lizhongyue248&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lizhongyue248&show_icons=true">
+</picture>
+
+
 - 🌱 迷茫的孩子，找不到回家的归途
 - ✨ 新的开始新的挑战
 - 🌞 乐观、积极、向上
 - 📯 优先考虑历史的进程
 - 🌷 遇见的都是天意，拥有的都是幸运
 
-<div align="center">
-  <a href="https://echocow.cn/">
-    <img src="https://github-readme-stats.vercel.app/api?username=lizhongyue248&show_icons=true&hide_border=true" />
-  </a>
-</div>
 
 <!--
 **lizhongyue248/lizhongyue248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
