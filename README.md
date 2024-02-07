@@ -1,10 +1,9 @@
-### Hi there 👋
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=lizhongyue248&theme=dark&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=lizhongyue248&show_icons=true">
 </picture>
 
+### Hi there 👋
 
 - 🌱 迷茫的孩子，找不到回家的归途
 - ✨ 新的开始新的挑战
