@@ -36,4 +36,36 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 18.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 146 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 2 Private Repositories 
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     17 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Kotlin                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Solidity                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/lizhongyue248/lizhongyue248/master/assets/bar_graph.png)
+
+
+ Last Updated on 07/02/2024 17:28:04 UTC
 <!--END_SECTION:waka-->
