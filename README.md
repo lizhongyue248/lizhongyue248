@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🚀 Recently
+
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#4256](https://github.com/JetBrains/compose-multiplatform/issues/4256) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 2. ❗ Opened issue [#4238](https://github.com/JetBrains/compose-multiplatform/issues/4238) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
@@ -34,6 +36,8 @@ Here are some ideas to get you started:
 4. ❗ Opened issue [#1](https://github.com/mashirot/gugu-aod/issues/1) in [mashirot/gugu-aod](https://github.com/mashirot/gugu-aod)
 5. 🚀 Published release [v1.0.0](https://github.com/lizhongyue248/PortView/releases/tag/v1.0.0) in [lizhongyue248/PortView](https://github.com/lizhongyue248/PortView)
 <!--END_SECTION:activity-->
+
+### 🎬 Coding
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
