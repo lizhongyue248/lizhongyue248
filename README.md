@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/KevinnZou/compose-swipebox-multiplatform/issues/1) in [KevinnZou/compose-swipebox-multiplatform](https://github.com/KevinnZou/compose-swipebox-multiplatform)
-2. 🗣 Commented on [#2069](https://github.com/JetBrains/compose-multiplatform/issues/2069#issuecomment-1933492651) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+1. 🗣 Commented on [#1](https://github.com/KevinnZou/compose-swipebox-multiplatform/issues/1#issuecomment-1949681155) in [KevinnZou/compose-swipebox-multiplatform](https://github.com/KevinnZou/compose-swipebox-multiplatform)
+2. ❗ Opened issue [#1](https://github.com/KevinnZou/compose-swipebox-multiplatform/issues/1) in [KevinnZou/compose-swipebox-multiplatform](https://github.com/KevinnZou/compose-swipebox-multiplatform)
 3. 🗣 Commented on [#4256](https://github.com/JetBrains/compose-multiplatform/issues/4256#issuecomment-1933452617) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 4. ❗ Opened issue [#4256](https://github.com/JetBrains/compose-multiplatform/issues/4256) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
 5. ❗ Opened issue [#4238](https://github.com/JetBrains/compose-multiplatform/issues/4238) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
