@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/KevinnZou/compose-swipebox-multiplatform/issues/1#issuecomment-1959456951) in [KevinnZou/compose-swipebox-multiplatform](https://github.com/KevinnZou/compose-swipebox-multiplatform)
-2. 🔒 Closed issue [#1](https://github.com/KevinnZou/compose-swipebox-multiplatform/issues/1) in [KevinnZou/compose-swipebox-multiplatform](https://github.com/KevinnZou/compose-swipebox-multiplatform)
-3. 🗣 Commented on [#2187](https://github.com/JetBrains/compose-multiplatform/issues/2187#issuecomment-1956747700) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
-4. 🗣 Commented on [#142](https://github.com/russhwolf/multiplatform-settings/issues/142#issuecomment-1951344970) in [russhwolf/multiplatform-settings](https://github.com/russhwolf/multiplatform-settings)
-5. 🗣 Commented on [#1](https://github.com/KevinnZou/compose-swipebox-multiplatform/issues/1#issuecomment-1949681155) in [KevinnZou/compose-swipebox-multiplatform](https://github.com/KevinnZou/compose-swipebox-multiplatform)
+1. ❗ Opened issue [#102](https://github.com/diglol/id/issues/102) in [diglol/id](https://github.com/diglol/id)
+2. 🗣 Commented on [#1](https://github.com/KevinnZou/compose-swipebox-multiplatform/issues/1#issuecomment-1959456951) in [KevinnZou/compose-swipebox-multiplatform](https://github.com/KevinnZou/compose-swipebox-multiplatform)
+3. 🔒 Closed issue [#1](https://github.com/KevinnZou/compose-swipebox-multiplatform/issues/1) in [KevinnZou/compose-swipebox-multiplatform](https://github.com/KevinnZou/compose-swipebox-multiplatform)
+4. 🗣 Commented on [#2187](https://github.com/JetBrains/compose-multiplatform/issues/2187#issuecomment-1956747700) in [JetBrains/compose-multiplatform](https://github.com/JetBrains/compose-multiplatform)
+5. 🗣 Commented on [#142](https://github.com/russhwolf/multiplatform-settings/issues/142#issuecomment-1951344970) in [russhwolf/multiplatform-settings](https://github.com/russhwolf/multiplatform-settings)
 <!--END_SECTION:activity-->
 
 ### 🎬 Coding
