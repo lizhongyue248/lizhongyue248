@@ -19,7 +19,7 @@ jobs:
           SHOW_SHORT_INFO: true
           BLOCKS: "⬜🟨🟩"
           SYMBOL_VERSION: 3
-          COMMIT_BY_ME: true
+          COMMIT_BY_ME: false
           COMMIT_MESSAGE: 📝 Update README with the waka
           SHOW_UPDATED_DATE: true
           SHOW_LINES_OF_CODE: true
