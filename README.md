@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#278](https://github.com/Tlaster/PreCompose/issues/278#issuecomment-1968248591) in [Tlaster/PreCompose](https://github.com/Tlaster/PreCompose)
-2. 🗣 Commented on [#278](https://github.com/Tlaster/PreCompose/issues/278#issuecomment-1968222142) in [Tlaster/PreCompose](https://github.com/Tlaster/PreCompose)
-3. ❗ Opened issue [#278](https://github.com/Tlaster/PreCompose/issues/278) in [Tlaster/PreCompose](https://github.com/Tlaster/PreCompose)
-4. ❗ Opened issue [#102](https://github.com/diglol/id/issues/102) in [diglol/id](https://github.com/diglol/id)
+1. 🗣 Commented on [#1588](https://github.com/arco-design/arco-design/issues/1588#issuecomment-1998842467) in [arco-design/arco-design](https://github.com/arco-design/arco-design)
+2. 🗣 Commented on [#278](https://github.com/Tlaster/PreCompose/issues/278#issuecomment-1968248591) in [Tlaster/PreCompose](https://github.com/Tlaster/PreCompose)
+3. 🗣 Commented on [#278](https://github.com/Tlaster/PreCompose/issues/278#issuecomment-1968222142) in [Tlaster/PreCompose](https://github.com/Tlaster/PreCompose)
+4. ❗ Opened issue [#278](https://github.com/Tlaster/PreCompose/issues/278) in [Tlaster/PreCompose](https://github.com/Tlaster/PreCompose)
 5. 🗣 Commented on [#1](https://github.com/KevinnZou/compose-swipebox-multiplatform/issues/1#issuecomment-1959456951) in [KevinnZou/compose-swipebox-multiplatform](https://github.com/KevinnZou/compose-swipebox-multiplatform)
 <!--END_SECTION:activity-->
 
