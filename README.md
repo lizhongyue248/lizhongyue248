@@ -50,8 +50,6 @@ Here are some ideas to get you started:
 
 > 📦 18.9 kB Used in GitHub's Storage 
  > 
-> 🏆 418 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -98,5 +96,5 @@ Windows                  8 hrs 55 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 24/04/2024 13:00:50 UTC
+ Last Updated on 24/04/2024 18:40:24 UTC
 <!--END_SECTION:waka-->
