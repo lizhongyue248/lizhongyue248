@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1225](https://github.com/chat2db/Chat2DB/issues/1225#issuecomment-2026522555) in [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB)
+1. 🗣 Commented on [#17085](https://github.com/quasarframework/quasar/issues/17085#issuecomment-2079576204) in [quasarframework/quasar](https://github.com/quasarframework/quasar)
 2. 🗣 Commented on [#30318](https://github.com/apache/shardingsphere/issues/30318#issuecomment-2002335096) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
 3. 🗣 Commented on [#28805](https://github.com/apache/shardingsphere/pull/28805#issuecomment-2002334354) in [apache/shardingsphere](https://github.com/apache/shardingsphere)
 4. 🗣 Commented on [#540](https://github.com/kotlin-orm/ktorm/issues/540#issuecomment-2002080782) in [kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm)
