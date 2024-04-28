@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### 🎬 Coding
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-144%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -49,8 +49,6 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data** 
 
 > 📦 18.9 kB Used in GitHub's Storage 
- > 
-> 🏆 419 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,5 +95,5 @@ Windows                  6 hrs 59 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 28/04/2024 12:52:17 UTC
+ Last Updated on 28/04/2024 18:41:03 UTC
 <!--END_SECTION:waka-->
