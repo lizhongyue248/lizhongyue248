@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### 🎬 Coding
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -97,5 +97,5 @@ Windows                  16 hrs 55 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 ```
 
 
- Last Updated on 01/05/2024 12:53:37 UTC
+ Last Updated on 01/05/2024 18:42:22 UTC
 <!--END_SECTION:waka-->
