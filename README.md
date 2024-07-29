@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/GeneralAndKing/matrix/issues/8) in [GeneralAndKing/matrix](https://github.com/GeneralAndKing/matrix)
+1. 🗣 Commented on [#4050](https://github.com/nodejs/help/issues/4050#issuecomment-2254783118) in [nodejs/help](https://github.com/nodejs/help)
 2. ❗ Opened issue [#7](https://github.com/GeneralAndKing/matrix/issues/7) in [GeneralAndKing/matrix](https://github.com/GeneralAndKing/matrix)
 3. ❗ Opened issue [#6](https://github.com/GeneralAndKing/matrix/issues/6) in [GeneralAndKing/matrix](https://github.com/GeneralAndKing/matrix)
 4. ❗ Opened issue [#5](https://github.com/GeneralAndKing/matrix/issues/5) in [GeneralAndKing/matrix](https://github.com/GeneralAndKing/matrix)
