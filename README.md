@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12675](https://github.com/oven-sh/bun/issues/12675#issuecomment-2283197510) in [oven-sh/bun](https://github.com/oven-sh/bun)
-2. 🗣 Commented on [#1021](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/1021#issuecomment-2283197389) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-3. 🗣 Commented on [#4050](https://github.com/nodejs/help/issues/4050#issuecomment-2254783118) in [nodejs/help](https://github.com/nodejs/help)
-4. ❗ Opened issue [#5](https://github.com/GeneralAndKing/matrix/issues/5) in [GeneralAndKing/matrix](https://github.com/GeneralAndKing/matrix)
+1. ❗ Opened issue [#392](https://github.com/KartanHQ/intellij-remix/issues/392) in [KartanHQ/intellij-remix](https://github.com/KartanHQ/intellij-remix)
+2. 🗣 Commented on [#12675](https://github.com/oven-sh/bun/issues/12675#issuecomment-2283197510) in [oven-sh/bun](https://github.com/oven-sh/bun)
+3. 🗣 Commented on [#1021](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/1021#issuecomment-2283197389) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+4. 🗣 Commented on [#4050](https://github.com/nodejs/help/issues/4050#issuecomment-2254783118) in [nodejs/help](https://github.com/nodejs/help)
 5. ❗ Opened issue [#4](https://github.com/GeneralAndKing/matrix/issues/4) in [GeneralAndKing/matrix](https://github.com/GeneralAndKing/matrix)
 <!--END_SECTION:activity-->
