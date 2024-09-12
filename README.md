@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#392](https://github.com/KartanHQ/intellij-remix/issues/392) in [KartanHQ/intellij-remix](https://github.com/KartanHQ/intellij-remix)
-2. 🗣 Commented on [#12675](https://github.com/oven-sh/bun/issues/12675#issuecomment-2283197510) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 🗣 Commented on [#14](https://github.com/Hufe921/canvas-editor-plugin/issues/14#issuecomment-2345651738) in [Hufe921/canvas-editor-plugin](https://github.com/Hufe921/canvas-editor-plugin)
+2. 🗣 Commented on [#2](https://github.com/Hufe921/canvas-editor-plugin/issues/2#issuecomment-2345554822) in [Hufe921/canvas-editor-plugin](https://github.com/Hufe921/canvas-editor-plugin)
 3. 🗣 Commented on [#1021](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/1021#issuecomment-2283197389) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
 4. 🗣 Commented on [#4050](https://github.com/nodejs/help/issues/4050#issuecomment-2254783118) in [nodejs/help](https://github.com/nodejs/help)
 5. ❗ Opened issue [#4](https://github.com/GeneralAndKing/matrix/issues/4) in [GeneralAndKing/matrix](https://github.com/GeneralAndKing/matrix)
