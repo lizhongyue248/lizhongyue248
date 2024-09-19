@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Hufe921/canvas-editor-plugin/issues/14#issuecomment-2345651738) in [Hufe921/canvas-editor-plugin](https://github.com/Hufe921/canvas-editor-plugin)
-2. 🗣 Commented on [#2](https://github.com/Hufe921/canvas-editor-plugin/issues/2#issuecomment-2345554822) in [Hufe921/canvas-editor-plugin](https://github.com/Hufe921/canvas-editor-plugin)
-3. 🗣 Commented on [#1021](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/1021#issuecomment-2283197389) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-4. 🗣 Commented on [#4050](https://github.com/nodejs/help/issues/4050#issuecomment-2254783118) in [nodejs/help](https://github.com/nodejs/help)
+1. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2360434199) in [electerm/electerm](https://github.com/electerm/electerm)
+2. ❗ Opened issue [#3600](https://github.com/electerm/electerm/issues/3600) in [electerm/electerm](https://github.com/electerm/electerm)
+3. 🗣 Commented on [#14](https://github.com/Hufe921/canvas-editor-plugin/issues/14#issuecomment-2345651738) in [Hufe921/canvas-editor-plugin](https://github.com/Hufe921/canvas-editor-plugin)
+4. 🗣 Commented on [#2](https://github.com/Hufe921/canvas-editor-plugin/issues/2#issuecomment-2345554822) in [Hufe921/canvas-editor-plugin](https://github.com/Hufe921/canvas-editor-plugin)
 5. ❗ Opened issue [#4](https://github.com/GeneralAndKing/matrix/issues/4) in [GeneralAndKing/matrix](https://github.com/GeneralAndKing/matrix)
 <!--END_SECTION:activity-->
