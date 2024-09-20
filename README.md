@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2362568983) in [electerm/electerm](https://github.com/electerm/electerm)
-2. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2362526627) in [electerm/electerm](https://github.com/electerm/electerm)
-3. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2360434199) in [electerm/electerm](https://github.com/electerm/electerm)
-4. ❗ Opened issue [#3600](https://github.com/electerm/electerm/issues/3600) in [electerm/electerm](https://github.com/electerm/electerm)
-5. 🗣 Commented on [#14](https://github.com/Hufe921/canvas-editor-plugin/issues/14#issuecomment-2345651738) in [Hufe921/canvas-editor-plugin](https://github.com/Hufe921/canvas-editor-plugin)
+1. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2362700295) in [electerm/electerm](https://github.com/electerm/electerm)
+2. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2362568983) in [electerm/electerm](https://github.com/electerm/electerm)
+3. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2362526627) in [electerm/electerm](https://github.com/electerm/electerm)
+4. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2360434199) in [electerm/electerm](https://github.com/electerm/electerm)
+5. ❗ Opened issue [#3600](https://github.com/electerm/electerm/issues/3600) in [electerm/electerm](https://github.com/electerm/electerm)
 <!--END_SECTION:activity-->
