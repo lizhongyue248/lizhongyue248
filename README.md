@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2367169193) in [electerm/electerm](https://github.com/electerm/electerm)
-2. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2362700295) in [electerm/electerm](https://github.com/electerm/electerm)
+1. 🔒 Closed issue [#392](https://github.com/KartanHQ/intellij-remix/issues/392) in [KartanHQ/intellij-remix](https://github.com/KartanHQ/intellij-remix)
+2. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2367169193) in [electerm/electerm](https://github.com/electerm/electerm)
 3. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2362568983) in [electerm/electerm](https://github.com/electerm/electerm)
 4. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2362526627) in [electerm/electerm](https://github.com/electerm/electerm)
 5. 🗣 Commented on [#3600](https://github.com/electerm/electerm/issues/3600#issuecomment-2360434199) in [electerm/electerm](https://github.com/electerm/electerm)
