@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1502](https://github.com/egoist/mygo/issues/1502) in [egoist/mygo](https://github.com/egoist/mygo)
-2. ❗ Opened issue [#5](https://github.com/ymstar/dyhub/issues/5) in [ymstar/dyhub](https://github.com/ymstar/dyhub)
+1. ❗ Opened issue [#1752](https://github.com/egoist/mygo/issues/1752) in [egoist/mygo](https://github.com/egoist/mygo)
+2. ❗ Opened issue [#1502](https://github.com/egoist/mygo/issues/1502) in [egoist/mygo](https://github.com/egoist/mygo)
 3. 🗣 Commented on [#43](https://github.com/CHKZL/DDTV/issues/43#issuecomment-5982206610) in [CHKZL/DDTV](https://github.com/CHKZL/DDTV)
 4. 🗣 Commented on [#37](https://github.com/CHKZL/DDTV/issues/37#issuecomment-5982205833) in [CHKZL/DDTV](https://github.com/CHKZL/DDTV)
 5. 🗣 Commented on [#45](https://github.com/LyzenX/DouyinLiveRecorder/issues/45#issuecomment-5982204265) in [LyzenX/DouyinLiveRecorder](https://github.com/LyzenX/DouyinLiveRecorder)
