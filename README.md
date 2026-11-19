@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ### 🚀 Recently
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/egoist/mygo-showcase/pull/13) in [egoist/mygo-showcase](https://github.com/egoist/mygo-showcase)
-2. ❗ Opened issue [#1964](https://github.com/egoist/mygo/issues/1964) in [egoist/mygo](https://github.com/egoist/mygo)
-3. ❗ Opened issue [#1906](https://github.com/egoist/mygo/issues/1906) in [egoist/mygo](https://github.com/egoist/mygo)
-4. ❗ Opened issue [#1752](https://github.com/egoist/mygo/issues/1752) in [egoist/mygo](https://github.com/egoist/mygo)
-5. ❗ Opened issue [#1502](https://github.com/egoist/mygo/issues/1502) in [egoist/mygo](https://github.com/egoist/mygo)
+1. ❗ Opened issue [#2080](https://github.com/egoist/mygo/issues/2080) in [egoist/mygo](https://github.com/egoist/mygo)
+2. 💪 Opened PR [#13](https://github.com/egoist/mygo-showcase/pull/13) in [egoist/mygo-showcase](https://github.com/egoist/mygo-showcase)
+3. ❗ Opened issue [#1964](https://github.com/egoist/mygo/issues/1964) in [egoist/mygo](https://github.com/egoist/mygo)
+4. ❗ Opened issue [#1906](https://github.com/egoist/mygo/issues/1906) in [egoist/mygo](https://github.com/egoist/mygo)
+5. ❗ Opened issue [#1752](https://github.com/egoist/mygo/issues/1752) in [egoist/mygo](https://github.com/egoist/mygo)
 <!--END_SECTION:activity-->
